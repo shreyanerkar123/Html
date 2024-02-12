@@ -1,0 +1,39 @@
+<html>
+
+<head>
+
+
+    <title>website</title>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+
+
+
+</head>
+
+<body>
+    <h1>POOJA(H1)</h1>
+    <h2>POOJA(H1)</h2>
+    <h3>POOJA(H1)</h3>
+
+    <h4>POOJA(H1)</h4>
+
+    <h5>POOJA(H1)</h5>
+    <h6>POOJA(H1)</H6>
+    <p>this is pregraph</p>
+    <span>this is span</span>
+    <span>this is span</span>
+    <p><q>this is quation</q></p>
+    <span>this is span</span>
+    <span><em>this is span</em></span>
+    <br><br>
+    <a href=" https://www.bing.com/search?q=google.com&form=ANSPH1&refig=107839c3e3bd49cab82955a3757f37df&pc=U531">
+        GOOGLE</a>
+<img src="https://www.wallpaperflare.com/static/335/587/630/blooming-lotus-flower-selective-focus-photography-wallpaper-preview.jpg" height="100" width="100">
+
+        <img src=""
+    </body>
+<footer></footer>
+
+</html>
